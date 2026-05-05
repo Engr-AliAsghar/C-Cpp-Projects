@@ -9,7 +9,7 @@ These functions are to be used in main.c
 
 #include "sensor.h"     //to use the SensorData Struct
 
-void ini_logger(const char *filename);
+void init_logger(const char *filename);
 void log_data(SensorData data);
 void close_logger();
 

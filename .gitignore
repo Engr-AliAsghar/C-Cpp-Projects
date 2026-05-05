@@ -82,3 +82,5 @@ Icon
 *.dSYM/
 *.idb
 *.pdb
+SensorLogger/testing.c
+SensorLogger/testingex
